@@ -2,4 +2,4 @@ lab1git
 =======
 
 
-Sylvia Barnai, Priscilla Siquieros
+A lab designed for git command demonstration purposes
