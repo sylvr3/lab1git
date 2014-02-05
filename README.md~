@@ -2,4 +2,12 @@ lab1git
 =======
 
 
-A lab designed for git command demonstration purposes
+A lab designed for git command demonstration purposes.
+
+<<<<<<< HEAD
+Branches include master and testbranch.
+=======
+
+
+Pushing my changes to this README.md file
+>>>>>>> 9166faf55de1987e818d4d2e03f208871bcec0bd
